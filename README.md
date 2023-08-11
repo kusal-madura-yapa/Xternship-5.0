@@ -39,3 +39,22 @@ Access and edit the profile if they are hired.
 
 Management Should be able to:
 View intern profiles.
+
+
+ The Project Doing FE - Angular  BE - Nest.js  
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
